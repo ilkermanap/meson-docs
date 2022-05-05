@@ -13,7 +13,7 @@ module.exports = {
         ['meta', { name: 'theme-color', content: '#fff' }],
         ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
         ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-        ['link', { rel: 'icon', href: 'https://ipfs.io/ipfs/bafybeiauxbhdc4nmp52ydhk6wbq3xctitm5ox622stbmil2tg7arqugiy4/meson-logo.svg' }]
+        ['link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/meson-logo.svg' }]
     ],
 
     markdown: {
@@ -43,12 +43,12 @@ module.exports = {
     plugins: [
         '@vuepress/plugin-shiki',
         ['@vuepress/plugin-docsearch', {
-            apiKey: 'a9bd399b495e1f6a542c545d43329f6d',
+            apiKey: '5d65bd82cc3d38c0b04e9e33731164a0',
             indexName: 'meson',
-            appId: '6EJE6R29QB',
+            appId: '2HJZWCKMF4',
         }],
         ['@vuepress/plugin-google-analytics', {
-            id: 'G-8BSS4K59LF',
+            id: 'G-SEH5LFSBRP',
         }],
     ],
 
@@ -57,7 +57,7 @@ module.exports = {
         docsRepo: 'daqnext/meson-docs',
         sidebarDepth: 3,
         docsDir: 'src',
-        logo: 'https://ipfs.io/ipfs/bafybeiauxbhdc4nmp52ydhk6wbq3xctitm5ox622stbmil2tg7arqugiy4/meson-logo.svg',
+        logo: 'https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/meson-logo.svg',
         themePlugins: {
             activeHeaderLinks: false,
         },

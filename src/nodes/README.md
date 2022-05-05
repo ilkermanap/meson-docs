@@ -27,7 +27,7 @@ In addition, standing and stable servers will have a higher CreditScore.
 
 Also, there will be some reward adjustments for servers in different regions.
 
-![](https://unruffled-meninsky-bf1569.netlify.app/assets/images/meson-token-mining-rules-b0dabdb70ee420d020d0e64067e3d977.png)
+![](https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/nodes/images/meson-token-mining-rules.png)
 
 All the Testnet Tokens will be mapped to 1% of the Mainnet Tokens. according to FAQ-Token, there will be 100,000,000 initial Meson Tokens, of which there will be 1,000,000 Tokens are used as the exchange of Testnet Tokens.
 

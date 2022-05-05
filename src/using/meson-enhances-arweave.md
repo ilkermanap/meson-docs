@@ -7,7 +7,7 @@ Upload a file to Arweave network and get dataTxId.
 “dataTxId”: “-ZW0S2kqxYSRUHQW5AbBp046gLILFCZmxf37HoP1K4k”, “dataContentType”: “video/mp4”}
 ```
 
-![](https://miro.medium.com/0*LEoSDrvNmGtMPZqu)
+![](https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/using/meson-enhance-arweave-01.png)
 
 Open it in official gateway:
 
@@ -29,7 +29,7 @@ The link jumps to a specific node to serve the request, dekiekbbhkceexx is the h
 https://arweave-dekiekbbhkceexx.shoppynext.com:1302/-ZW0S2kqxYSRUHQW5AbBp046gLILFCZmxf37HoP1K4k-redirecter456gt
 ```
 
-![](https://miro.medium.com/0*KEY0050XlI17Vf3Y)
+![](https://cdn.jsdelivr.net/gh/daqnext/meson-docs/src/images/using/meson-enhance-arweave-02.png)
 
 **The difference between the storage layer and cache layer**
 
