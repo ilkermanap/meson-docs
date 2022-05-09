@@ -52,8 +52,121 @@
 
 [Eventbrite](https://www.eventbrite.com/e/web-30-def-con-after-mixer-on-crypto-privacy-tickets-166225863031) | [Twitter](https://twitter.com/DoraFactory/status/1424641986833784832)
 
+## Content2049
+
+>Insights About Future. Visit [Content2049](https://content2049.meson.network/)
+
+### Content2049 Founders Forum II / April 28, 2022
+
+![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-Founders-Forum-II.jpg)
+
+[Content2049](https://content2049.meson.network/episodes/episode-f2/) | [Twitter](https://twitter.com/NetworkMeson/status/1518974408060071937) | [Spotify](https://open.spotify.com/episode/31XePp1Lb83vE1DZkK3H68) | [YouTube](https://www.youtube.com/watch?v=h5MCjB6MXAk)
+
+### Content2049 Digital Pets in Metaverse / April 22, 2022
+
+![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-15-Digital-Pets-in-Metaverse.jpeg)
+
+[Content2049](https://content2049.meson.network/episodes/episode-15/) | [Twitter](https://twitter.com/NetworkMeson/status/1516802808460476417) | [Spotify](https://open.spotify.com/episode/0UEgjc9vZAODezvy4UUQG2) | [YouTube](https://www.youtube.com/watch?v=rte6LRRp9Hk)
+
+### Content2049 Wonder Woman 2022 / April 7, 2022
+
+![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-14-Wonder-Woman-2022.jpeg)
+
+[Content2049](https://content2049.meson.network/episodes/episode-14/) | [Twitter](https://twitter.com/NetworkMeson/status/1513886964428439558) | [Spotify](https://open.spotify.com/episode/6SOtpyXIf0s1PHWZKGq7Mv) | [YouTube](https://www.youtube.com/watch?v=KP50iYLEcDY)
+
+### Content2049 Founders Forum I / April 7, 2022
+
+![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-Founders-Forum-01.png)
+
+[Content2049](https://content2049.meson.network/episodes/episode-f/) | [Twitter](https://twitter.com/NetworkMeson/status/1511213623028314114) | [Spotify](https://open.spotify.com/episode/7r4d0ih1wsLPMbsqQVWsw4) | [YouTube](https://www.youtube.com/watch?v=z_WdhgywGXU)
+
+### Content2049 StepN Firechat / Mar 30, 2022
+
+![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-StepN-Firechat.jpeg)
+
+[Content2049](https://content2049.meson.network/episodes/episode-s/) | [Twitter](https://twitter.com/NetworkMeson/status/1508454397319467010) | [Spotify](https://open.spotify.com/episode/4h4S2w7s1lvLl591eLKu4e) | [YouTube](https://www.youtube.com/watch?v=xuxqqIBSBBE)
+
+### Content2049 Killer Tools / Mar 24, 2022
+
+![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-11-Killer-Tools.jpeg)
+
+[Content2049](https://content2049.meson.network/episodes/episode-11/) | [Twitter](https://twitter.com/NetworkMeson/status/1506245802603077634) | [Spotify](https://open.spotify.com/episode/0MnEJpGbxWZjtP88ZV3nn9) | [YouTube](https://www.youtube.com/watch?v=mEISkvDFxLE)
+
+### Content2049 Wonder Woman I / Mar 17, 2022
+
+![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-10-Wonder-Woman.jpeg)
+
+[Content2049](https://content2049.meson.network/episodes/episode-10/) | [Twitter](https://twitter.com/NetworkMeson/status/1503746527143284738) | [Spotify](https://open.spotify.com/episode/6e8HGh7amiLapdx5IIexmj) | [YouTube](https://www.youtube.com/watch?v=aa5-gdb3Hhk)
+
+### Content2049 Two Sides of Privacy / Mar 10, 2022
+
+![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-9-Two-Sides-of-Privacy.jpeg)
+
+[Content2049](https://content2049.meson.network/episodes/episode-9/) | [Twitter](https://twitter.com/NetworkMeson/status/1501443197243117570) | [Spotify](https://open.spotify.com/episode/0XMUbiGI38cLQysWWwzYxp) | [YouTube](https://www.youtube.com/watch?v=XNmY09kb_3U)
+
+### Content2049 Uprising Web3 Storage I / Mar 3, 2022
+
+![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-8-Uprising-Web3-Storage-I.jpeg)
+
+[Content2049](https://content2049.meson.network/episodes/episode-8/) | [Twitter](https://twitter.com/NetworkMeson/status/1498633973492514819) | [Spotify](https://open.spotify.com/episode/6JO58XwzQaXH6gVUbPvCU6) | [YouTube](https://www.youtube.com/watch?v=FVYE9aF0pKQ)
+
+### Content2049 Best Tech In NFT Marketplace / Feb 24, 2022
+
+![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-7-Best-Tech-In-NFT-Marketplace.jpeg)
+
+[Content2049](https://content2049.meson.network/episodes/episode-7/) | [Twitter](https://twitter.com/NetworkMeson/status/1496437253631246340) | [Spotify](https://open.spotify.com/episode/07fzDqbCFDuAaV5apzFVCQ) | [YouTube](https://www.youtube.com/watch?v=BhjLjtQ3O-A)
+
+### Content2049 Crypto x Sustainability / Feb 17, 2022
+
+![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-Crypto-x-Sustainability.jpeg)
+
+[Content2049](https://content2049.meson.network/episodes/episode-x/) | [Twitter](https://twitter.com/NetworkMeson/status/1493832341503963138) | [Spotify](https://open.spotify.com/episode/43qIEsWqMez2ytpgZPAkfY) | [YouTube](https://www.youtube.com/watch?v=qFovj98uGWM)
+
+### Content2049 Cross Chain Impact / Feb 10, 2022
+
+![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-6-Cross-Chain-Impact.jpeg)
+
+[Content2049](https://content2049.meson.network/episodes/episode-6/) | [Twitter](https://twitter.com/NetworkMeson/status/1490997178055426049) | [Spotify](https://open.spotify.com/episode/36BvXhQiYkoW0EoiNIZmZ9) | [YouTube](https://www.youtube.com/watch?v=wObnl437kds)
+
+### Content2049 DAO Challenges / Jan 28, 2022
+
+![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-5-DAO-Challenges.jpeg)
+
+[Content2049](https://content2049.meson.network/episodes/episode-5/) | [Twitter](https://twitter.com/NetworkMeson/status/1486252300851355649) | [Spotify](https://open.spotify.com/episode/3kM5QNVaMMdrh0LBmala32) | [YouTube](https://www.youtube.com/watch?v=s7usdxuJA-c)
+
+### Content2049 Social Network Evolution / Jan 20, 2022
+
+![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-4-Social-Network-Evolution.jpeg)
+
+[Content2049](https://content2049.meson.network/episodes/episode-4/) | [Twitter](https://twitter.com/NetworkMeson/status/1493832341503963138) | [Spotify](https://open.spotify.com/episode/6uPJ2MYLVPJPzivQ92f2h5) | [YouTube](https://www.youtube.com/watch?v=q-W2VJmoy7Q)
+
+### Content2049 Hurricane DAO or Forever DAO / Jan 13, 2022
+
+![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-3-Hurricane-DAO-or-Forever-DAO.jpeg)
+
+[Content2049](https://content2049.meson.network/episodes/episode-3/) | [Twitter](https://twitter.com/NetworkMeson/status/1481206247995351040) | [Spotify](https://open.spotify.com/episode/7Moxp8hT3jVIdzPCWKy22I) | [YouTube](https://www.youtube.com/watch?v=hlAblOpXYac)
+
+### Content2049 Content Renaissance In Web3 / Jan 4, 2022
+
+![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-2-Content-Renaissance-In-Web3.jpeg)
+
+[Content2049](https://content2049.meson.network/episodes/episode-2/) | [Twitter](https://twitter.com/NetworkMeson/status/1478014694019383299) | [Spotify](https://open.spotify.com/episode/0rWqumFGJZ3rLhVWrBDavD) | [YouTube](https://www.youtube.com/watch?v=HkbpZ8KndKA)
+
+### Content2049 Green Consensus Scales / Dec 29, 2021
+
+![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-Green-Consensus-Scales.jpeg)
+
+[Content2049](https://content2049.meson.network/episodes/episode-c/) | [Twitter](https://twitter.com/NetworkMeson/status/1475500177813389318) | [Spotify](https://open.spotify.com/episode/4lRaDVWAIgvz2fnRgMb7H7) | [YouTube](https://www.youtube.com/watch?v=j-KZGK12_1Y)
+
+### Content2049 Reinvent Web Content / Dec 16, 2021
+
+![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-1-Reinvent-Web-Content.jpeg)
+
+[Content2049](https://content2049.meson.network/episodes/episode-1/) | [Twitter](https://twitter.com/NetworkMeson/status/1471292782543130624) | [Spotify](https://open.spotify.com/episode/7KW8a0ALQLhHJdrXZZGEQN) | [YouTube](https://www.youtube.com/watch?v=sY3N3KDIaCk)
+
 ## Articles
 
+- [Blockchain project takes on Cloudflare and Amazon Web Services](https://cointelegraph.com/news/blockchain-project-takes-on-cloudflare-and-amazon-web-services)
 - [Reintroducing Glass / Aug 22, 2021](https://glass.mirror.xyz/9ZFAFqvt-3PA9d1NXDD5TT1nX5J4mQdVriP1KFxBZXM)
 - [Foresight Ventures: Redefine NFT (Music, 4th-Dimension, Privacy, Interaction)](https://foresightventures.medium.com/foresight-ventures-redefine-nft-music-4th-dimension-privacy-interaction-a81f011be86)
 - [Arweave：Detailed explanation of key projects](https://medium.com/@invest_71820/arweave-detailed-explanation-of-key-projects-8eebbbbba39e)
@@ -78,7 +191,23 @@
 
 [Twitter](https://twitter.com/YoubiCapital/status/1466520921448013833)
 
-## Twitter
+## Thought Leadership
+
+### Sam Williams
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wild. <a href="https://twitter.com/solana?ref_src=twsrc%5Etfw">@solana</a> NFT apes in full force! 4x traffic increase to <a href="https://t.co/3S12ndZ16m">https://t.co/3S12ndZ16m</a> in 12 hours.<a href="https://t.co/cXAcsN7S3I">https://t.co/cXAcsN7S3I</a> is scaling up as we speak, but remember: integrate dCDNs like <a href="https://twitter.com/NetworkMeson?ref_src=twsrc%5Etfw">@NetworkMeson</a> and <a href="https://twitter.com/Media_FDN?ref_src=twsrc%5Etfw">@Media_FDN</a> to gain properly decentralised and fast access to permaweb data! <a href="https://t.co/IMIpQQjQiW">pic.twitter.com/IMIpQQjQiW</a></p>&mdash; Sam Williams 🐘 (@samecwilliams) <a href="https://twitter.com/samecwilliams/status/1432452769785462797?ref_src=twsrc%5Etfw">August 30, 2021</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thanks to the herculean community effort of <a href="https://twitter.com/SolanartNFT?ref_src=twsrc%5Etfw">@SolanartNFT</a>, <a href="https://twitter.com/NetworkMeson?ref_src=twsrc%5Etfw">@NetworkMeson</a>, <a href="https://twitter.com/Media_FDN?ref_src=twsrc%5Etfw">@Media_FDN</a> and the core <a href="https://twitter.com/solana?ref_src=twsrc%5Etfw">@solana</a> team, ape serving is now stabilising! 🦍🦍🦍<br><br>Huge thanks to all those involved. Incredible community spirit 😃 <a href="https://t.co/2ZPiX1wAAa">https://t.co/2ZPiX1wAAa</a></p>&mdash; Sam Williams 🐘 (@samecwilliams) <a href="https://twitter.com/samecwilliams/status/1426827828096610310?ref_src=twsrc%5Etfw">August 15, 2021</a></blockquote>
+
+### Suji Yan
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Mask Network <a href="https://twitter.com/realmaskbook?ref_src=twsrc%5Etfw">@realmaskbook</a> is always delighted to support good projects. The bandwidth marketplace <a href="https://twitter.com/NetworkMeson?ref_src=twsrc%5Etfw">@NetworkMeson</a> provides will help everyone to enjoy an easy-to-access Web 3.0. 🚀💻🚀 <a href="https://t.co/0NSY1iwQiC">https://t.co/0NSY1iwQiC</a></p>&mdash; Suji Yan - Mask is hiring (@suji_yan) <a href="https://twitter.com/suji_yan/status/1432930436531949573?ref_src=twsrc%5Etfw">September 1, 2021</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">3/ Mask Network also have invested in several projects important to the future of Web3/NFT - buy <a href="https://twitter.com/jack?ref_src=twsrc%5Etfw">@jack</a> &#39;s tweet as NFT (<a href="https://twitter.com/Cent?ref_src=twsrc%5Etfw">@Cent</a>), sign your digital signature w/ <a href="https://twitter.com/mcuban?ref_src=twsrc%5Etfw">@mcuban</a> &amp; <a href="https://twitter.com/VitalikButerin?ref_src=twsrc%5Etfw">@VitalikButerin</a> on <a href="https://twitter.com/AlchemyNFT?ref_src=twsrc%5Etfw">@AlchemyNFT</a>, RSS in web3 era <a href="https://twitter.com/rss3_?ref_src=twsrc%5Etfw">@rss3_</a> &amp; your best dCDN for metaverse <a href="https://twitter.com/NetworkMeson?ref_src=twsrc%5Etfw">@NetworkMeson</a></p>&mdash; Suji Yan - Mask is hiring (@suji_yan) <a href="https://twitter.com/suji_yan/status/1432009846249775118?ref_src=twsrc%5Etfw">August 29, 2021</a></blockquote>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/NetworkMeson?ref_src=twsrc%5Etfw">@NetworkMeson</a> is a decentralized CDN without censorship. May work!</p>&mdash; Suji Yan - Mask is hiring (@suji_yan) <a href="https://twitter.com/suji_yan/status/1451653667245932544?ref_src=twsrc%5Etfw">October 22, 2021</a></blockquote>
+
+## Trends
 
 ### Kryptos Arweave Ecosystem / Mar 24, 2022
 
