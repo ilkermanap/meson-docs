@@ -82,6 +82,10 @@ module.exports = {
                 text: 'Learn More',
                 children: [
                     {
+                        text: 'Twitter',
+                        link: 'https://twitter.com/NetworkMeson'
+                    },
+                    {
                         text: 'Discord',
                         link: 'https://meson.network/discord'
                     },
@@ -90,12 +94,16 @@ module.exports = {
                         link: 'https://t.me/mesonnetwork'
                     },
                     {
-                        text: 'Twitter',
-                        link: 'https://twitter.com/NetworkMeson'
+                        text: 'Content2049',
+                        link: 'https://content2049.meson.network'
                     },
                     {
                         text: 'YouTube',
                         link: 'https://www.youtube.com/c/MesonNetwork'
+                    },
+                    {
+                        text: 'Media Kit',
+                        link: 'https://github.com/daqnext/brand-kit'
                     },
                 ]
             },
