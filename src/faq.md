@@ -12,6 +12,22 @@ It is a bandwidth trading platform built on blockchain. We gather the idle bandw
 
 We don't recommend personal computers' users to install Meson yet. It is a rigmarole.
 
+## How to prevent the scenario where terminal users used IP pools to fake a large amount of access requests and maliciously earn tokens?
+
+Our token economy is a bandwidth renting model which will not incentivize usage.
+
+## What would happen if users used Meson to cache illegal content?
+
+Meson.Network will deploy AI system to detect the illegal content according to the rule in different countries.
+
+## How to deal with cheating terminal nodes that do not transmit data or transmit wrong data?
+
+All terminal nodes need to stake tokens on mainnet, once cheating behaviors are discovered by meson validators, penalties will be given out to these nodes.
+
+## What is the basic requirement to do mining?
+
+You need a server with at least 40GB storage and a public stable static ip is required during mining.
+
 ## Why choose Meson Network?
 
 - Cheap - Make the best use of idle resources
@@ -40,6 +56,24 @@ Your MainNet Tokens = (Your TestNet Tokens / All TestNet Tokens) * (1% * All Mai
 It is determined by the date when Meson will close the TestNet and launch into the MainNet. As a result, it is uncertain yet.
 
 Currently, there are more and more miners and nodes joining. As huge amount nodes join in, Meson Project will start a community vote to decide the token distributed amount function(curve) of TestNet. So that while protecting the interests of existing miners to some extent, it could also increase the income of new entrants.
+
+## Why does Meson choose expensive Ethereum?
+
+Meson supports Ethereum as the first infrastructure layer to ensure the most significant ecosystem in crypto. ERC20 is the most adopted standard, it makes sure everything works fine and has the most compatible situation. Yes, the problem exists in the gas area, so supporting more infra like Arweave-smartweave, Solana, Polygon, ZK-Rollup is onboarding.
+
+## Do I have to exchange my test tokens?
+
+NO.
+
+A very important reason why they are currently test tokens is to make sure everything goes smoothly step by step. You don't have to exchange your test tokens and this is not even recommended if you care much about the gas fee. However, if you would like to save your test tokens on some blockchain to keep them in another way, doing the exchange to Ethereum Network would be a nice option for you.
+
+## Can I trade(transfer) my test tokens after exchanging them to Ethereum?
+
+Not yet.
+
+The functions of transfer for Meson Test Tokens on Ethereum are locked. After the double check of the contract safety, the transfer functions will open to the public.
+
+For more details, please refer to [Ethereum Contract Source Code for Meson Test Tokens](https://etherscan.io/address/0x318b13467537f58890002847fe71eb2a74b6a5a5#code).
 
 ## How to Forward Ports on Your Router?
 
