@@ -43,6 +43,9 @@ module.exports = {
     plugins: [
         '@vuepress/plugin-shiki',
         '@vuepress/plugin-search',
+        ['@vuepress/plugin-google-analytics', {
+            id: 'G-SEH5LFSBRP',
+        }],
     ],
 
     themeConfig: {
@@ -79,6 +82,10 @@ module.exports = {
                 text: 'Learn More',
                 children: [
                     {
+                        text: 'Changelog',
+                        link: '/changelog/',
+                    },
+                    {
                         text: 'Twitter',
                         link: 'https://twitter.com/NetworkMeson'
                     },
@@ -101,6 +108,10 @@ module.exports = {
                     {
                         text: 'Media Kit',
                         link: 'https://github.com/daqnext/brand-kit'
+                    },
+                    {
+                        text: 'Status',
+                        link: 'https://status.meson.network'
                     },
                 ]
             },
@@ -125,7 +136,7 @@ module.exports = {
                         '/meson-token.md',
                         '/bandwidth-marketplace.md',
                         '/roadmap.md',
-                        '/thanks.md',
+                        '/partnership.md',
                     ],
                 },
                 {
@@ -147,6 +158,7 @@ module.exports = {
                         '/using/meson-enhances-wordpress.md',
                     ],
                 },
+                '/mcdn-101.md',
                 {
                     text: '🌀 Open Source',
                     collapsible: true,
@@ -157,9 +169,26 @@ module.exports = {
                     collapsible: true,
                     link: '/meson-testtokens-to-ethereum.md',
                 },
-                '/community.md',
-                '/glossary.md',
-                '/faq.md',
+                {
+                    text: '👾 Community',
+                    collapsible: true,
+                    link: '/community.md',
+                },
+                {
+                    text: '🌍 Pricing',
+                    collapsible: true,
+                    link: '/pricing.md',
+                },
+                {
+                    text: '🧱 Glossary',
+                    collapsible: true,
+                    link: '/glossary.md',
+                },
+                {
+                    text: '🌱 FAQ ',
+                    collapsible: true,
+                    link: '/faq.md',
+                },
             ],
         },
     },
