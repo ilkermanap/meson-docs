@@ -4,7 +4,7 @@
 
 ## Deploy Requirements
 
-- A Static(Public) IP or A DHCP Reservation
+- A Public(Static/Dynamic) IP or A DHCP Reservation
 - Opening the port of the firewall (default: 443, support for custom server ports)
 - Providing enough Storage (default minimum requirements: 20G)
 
@@ -85,8 +85,8 @@ Param List:
 ```bash
 -token=your token              # you can find out your token in nodes page
 -https_port=443                # default is 443, support for custom server ports
--cache_size=30                 # at least 20, default is 30, support for custom server ports
--cache_folder=xxxx             # string, cache folder path, could be an absolute path
+-cache.size=30                 # at least 20, default is 30, support for custom server ports
+-cache.folder=xxxx             # string, cache folder path, could be an absolute path
 ```
 
 Example:
