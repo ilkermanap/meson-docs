@@ -101,6 +101,7 @@ Example:
 In the example, I changed the default port to 520, cache size to 20G.
 
 ```bash
+sudo ufw allow 520
 sudo ./meson_cdn config set --token=your token --https_port=520 --cache.size=20 && sudo ./service restart meson_cdn
 ```
 
